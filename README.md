@@ -26,7 +26,7 @@ Interactive dashboard analyzing sales trends, profitability, regional performanc
 Advanced sales view focusing on customer segments, discount impact, and forecasting.  
 **Tools Used**: Similar stack with emphasis on segmentation and what-if parameters.  
 
-[View Project Folder →](/Sales-Dashboard-2)  
+[View Project Folder →](/Adventure%20works%20cycle%20dashboard.pbix)  
 <img width="1312" height="735" alt="image" src="https://github.com/user-attachments/assets/09f995ad-dabb-4d37-a4a1-bc6c692010f9" />
 <img width="1311" height="732" alt="image" src="https://github.com/user-attachments/assets/67557fbb-e0b2-45f7-aa08-74d1f9eab0b8" />
 <img width="1312" height="732" alt="image" src="https://github.com/user-attachments/assets/9b02727e-ce6b-49dd-998c-dd5447414e21" />
@@ -37,7 +37,7 @@ Performance trends, strike rates, runs by opponent/year — sports analytics sho
 **Tools Used**: Excel data prep → SQL aggregations → Power BI visuals (timelines, comparisons, heatmaps)  
 **Key Insights**: Peak performance phases and opponent-specific strengths.  
 
-[View Project Folder →](/Rohit-T20-Dashboard)  
+[View Project Folder →](/Rohit%20Sharma%20T20I%20career.pbix)  
 <img width="1308" height="733" alt="image" src="https://github.com/user-attachments/assets/86e6adff-05a3-4590-8251-4e2108a4f94d" />
 
 
