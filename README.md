@@ -17,7 +17,7 @@ Interactive dashboard analyzing sales trends, profitability, regional performanc
 **Tools Used**: Excel cleaning → Power Query ETL → SQL-style analysis → Power BI (DAX for YoY growth, margins, slicers, maps)  
 **Key Insights**: Identified high-margin categories and underperforming regions for optimization.  
 
-[View Project Folder →](/Sales-Dashboard-1)  
+[View Project Folder →](/Salesdashboard.pbix)  
 <img width="1327" height="738" alt="image" src="https://github.com/user-attachments/assets/2da7f6fe-6a3b-4640-a715-baaaca5529da" />
 
 
